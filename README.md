@@ -2,8 +2,7 @@
 
 Dashboard administrativo desenvolvido em **React**, com **CRUD de usuários e produtos**, **login simulado**, **gráficos dinâmicos** e **tema claro/escuro**.
 
-🔗 **Deploy online:** _adicione aqui o link do Vercel_
-
+🔗 **Deploy online:  https://admin-dashboard-react-khaki-nine.vercel.app/
 ---
 
 ## Tecnologias
