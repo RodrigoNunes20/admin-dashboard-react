@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+}
+/* Comentário humano: mantemos estilos mínimos, deixamos o design por conta do Tailwind */
